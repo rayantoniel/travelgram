@@ -18,6 +18,7 @@ header .container {
 #profile img {
     width: 176px;
     height: 176px;
+    object-fit: cover;
     border-radius: 50%;
 }
 
